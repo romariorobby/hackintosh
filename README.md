@@ -9,6 +9,7 @@ Items | Version |       |
 **VirtualSMC** |
 **WhateverGreen** |
 **IntelMausi** |
+
 Components |             |	         |
 -----------|-------------|-----------|
 **CPU** | Intel i7-8700K |
